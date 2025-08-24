@@ -17,8 +17,6 @@ This repository contains topic-wise Python programs and notes that I personally 
 - Object-Oriented Programming
 - Miscellaneous (Comprehensions, Decorators, Generators)
 
-## How to Use
-
-Explore each folder based on the topic. Each topics with examples and simple programs.
+and Python Libraries
 
 
